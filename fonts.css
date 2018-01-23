@@ -37,12 +37,14 @@
 
 	.icon
 	{
-		text-decoration: none;
+		text-decoration: underline;
 	}
 
 		.icon:before
 		{
-			font-size: 1.80em;
+
+			font-size: 5.25em;
+
 			text-decoration: none;
 			font-family: FontAwesome;
 			font-weight: normal;
